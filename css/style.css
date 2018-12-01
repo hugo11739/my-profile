@@ -1,13 +1,26 @@
+
+
+ @font-face {
+    font-family: Krub;
+    src: url("https://fonts.googleapis.com/css?family=Krub");
+}
+
+
+
 body {
 	background-color:#EEEEEE;
 	font-family: 'Krub';
 	text-align: center;
-
-
-
-
-
 }
+
+.carré {
+ background: white;
+	 padding: 60px;
+	 margin: 50px;
+	 box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	 border-radius: 8px            
+}
+
 h1{
 	color:#005792;
 	font-weight: 1000;
@@ -78,10 +91,6 @@ border-radius: 1000px;
 		width: 300px
 	}
 }
-
-
-
-
 
 
 
